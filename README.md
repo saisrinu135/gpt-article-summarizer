@@ -20,3 +20,4 @@ This script provides a way to search Google, fetch article content from the resu
 
     python search.py
 
+**Testing Gemini App**
